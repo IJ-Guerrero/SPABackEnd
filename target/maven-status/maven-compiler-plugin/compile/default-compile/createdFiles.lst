@@ -2,6 +2,7 @@ com\portfolio\isaac\Security\Repository\iUsuarioRepository.class
 com\portfolio\isaac\Security\Dto\NuevoUsuario.class
 com\portfolio\isaac\Controller\CAcercade.class
 com\portfolio\isaac\Dto\dtoProyectos.class
+com\portfolio\isaac\WebConfig.class
 com\portfolio\isaac\Service\ImpPersonaService.class
 com\portfolio\isaac\Repository\RProyectos.class
 com\portfolio\isaac\Repository\Rhys.class
