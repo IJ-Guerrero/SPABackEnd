@@ -26,13 +26,12 @@ public class Experiencia {
     }
 
     public Experiencia(String nombreE, String descripcionE, String img, String periodoE) {
-        this.id = id;
         this.nombreE = nombreE;
         this.descripcionE = descripcionE;
         this.img = img;
+        this.periodoE = periodoE;
     }
-
-    
+ 
     
     //Getters and setters
 
